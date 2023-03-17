@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845624529410",
+    "firebase_url": "https://surroundreprise-default-rtdb.firebaseio.com",
+    "project_id": "surroundreprise",
+    "storage_bucket": "surroundreprise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845624529410:android:18623049e9f38460e54d1b",
+        "android_client_info": {
+          "package_name": "com.yourmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845624529410-fnssi2t4ds7ui429es2kcidi27p6rj1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3rnzGaFVZUWuZ8VGr6eMg3dAgISZqiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845624529410-fnssi2t4ds7ui429es2kcidi27p6rj1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
