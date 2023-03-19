@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {Button, Text, View} from 'react-native';
-import useLogin from '/Users/bertogonz3000/SpotifyRNExample/your-music-rn/src/hooks/use-login';
+import useLogin from '../hooks/use-login';
 
 type Data = {body: {item: {name: string}}};
 
@@ -20,7 +20,7 @@ const SurroundRepriseMain = (authToken: {authToken: string}) => {
   }
 
   return (
-    <View>
+    <View style={{padding: 50}}>
       <Text>{'song: ' + songName}</Text>
       <Button
         title="hello there!"

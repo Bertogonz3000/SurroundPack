@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>845624529410-11pvn2gkqrkkfmeo98mbacdg87044ooj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.845624529410-11pvn2gkqrkkfmeo98mbacdg87044ooj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8NiHySTSHEXOoO7JMzgsvpj0DKaRxJNk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>845624529410</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.YourMusic</string>
+	<key>PROJECT_ID</key>
+	<string>surroundreprise</string>
+	<key>STORAGE_BUCKET</key>
+	<string>surroundreprise.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:845624529410:ios:38b1a2241b801fd4e54d1b</string>
+	<key>DATABASE_URL</key>
+	<string>https://surroundreprise-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
